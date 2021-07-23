@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"00_Luana","classId":1,"equips":[0,0],"faceIndex":0,"faceName":"01_Luana_02","traits":[{"code":11,"dataId":2,"value":1},{"code":11,"dataId":3,"value":1},{"code":11,"dataId":4,"value":1}],"initialLevel":1,"maxLevel":99,"name":"Luana","nickname":"","note":"<ETS_特徴: 0>\n数値:0.0\n</ETS_特徴>\n\n<ETS_特徴: 1>\n数値:0.0\n</ETS_特徴>\n\n<ETS_特徴: 2>\n数値:0.0\n</ETS_特徴>\n\n\n","profile":"アレスレコードを守る司書の一族。"}
+]
